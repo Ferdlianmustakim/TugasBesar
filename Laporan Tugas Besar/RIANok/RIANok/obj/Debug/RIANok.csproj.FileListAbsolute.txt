@@ -1,0 +1,11 @@
+D:\File Kuliah\Pemrograman Terstruktur\RIANok\RIANok\bin\Debug\RIANok.exe.config
+D:\File Kuliah\Pemrograman Terstruktur\RIANok\RIANok\obj\Debug\RIANok.csprojResolveAssemblyReference.cache
+D:\File Kuliah\Pemrograman Terstruktur\RIANok\RIANok\obj\Debug\RIANok.Login.resources
+D:\File Kuliah\Pemrograman Terstruktur\RIANok\RIANok\obj\Debug\RIANok.Form2.resources
+D:\File Kuliah\Pemrograman Terstruktur\RIANok\RIANok\obj\Debug\RIANok.Properties.Resources.resources
+D:\File Kuliah\Pemrograman Terstruktur\RIANok\RIANok\obj\Debug\RIANok.csproj.GenerateResource.Cache
+D:\File Kuliah\Pemrograman Terstruktur\RIANok\RIANok\bin\Debug\RIANok.exe
+D:\File Kuliah\Pemrograman Terstruktur\RIANok\RIANok\bin\Debug\RIANok.pdb
+D:\File Kuliah\Pemrograman Terstruktur\RIANok\RIANok\obj\Debug\RIANok.exe
+D:\File Kuliah\Pemrograman Terstruktur\RIANok\RIANok\obj\Debug\RIANok.pdb
+D:\File Kuliah\Pemrograman Terstruktur\RIANok\RIANok\obj\Debug\RIANok.Form3.resources
